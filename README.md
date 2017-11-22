@@ -1,4 +1,4 @@
-![alt text]([https://github.com/carlx/react-month-select/blob/master/Screen.png])
+<img src="https://github.com/carlx/react-month-select/blob/master/Screen.png"></img>
 
 Use yarn start to run example
 
