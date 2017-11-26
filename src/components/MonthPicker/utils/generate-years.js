@@ -1,4 +1,4 @@
-import * as moment from 'moment/moment';
+import moment from 'moment/moment';
 
 const generateYears = (startYear = moment().year() - 10, EndYear = moment().year()) => {
   const years = [];
